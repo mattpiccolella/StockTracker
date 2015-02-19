@@ -1,0 +1,14 @@
+/lib
+/local
+/log/*
+/bin
+/include
+tmp
+/man
+/share
+*.pyc
+*.swp
+.Python
+.vagrant
+
+
